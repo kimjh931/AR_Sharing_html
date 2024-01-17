@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>AR Viewer</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="ar" href="path/to/Byron's_Lonely_Hearts_Club.usdz">
+    <link rel="ar" href="https://github.com/kimjh931/AR_Sharing_html/blob/main/Byron's_Lonely_Hearts_Club.usdz">
 </head>
 <body>
     <h1>AR Viewer</h1>
